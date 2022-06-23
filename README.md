@@ -6,3 +6,5 @@
 
 The goal of divide is to ...
 
+Criação do divisor
+
